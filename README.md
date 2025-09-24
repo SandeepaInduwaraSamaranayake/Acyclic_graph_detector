@@ -29,7 +29,7 @@ This project addresses the following coursework tasks:
 ---
 
 ## 🛠️ Technologies Used
-- **Programming Language**: Java (JDK 8+)
+- **Programming Language**: Java (JDK 17)
 - **Core Data Structures**:
   - `HashMap<Integer, ArrayList<Integer>>` → For adjacency list representation of graphs
   - `HashSet<Integer>` → For tracking visited vertices and current recursion stack
