@@ -113,10 +113,10 @@ java -cp src Main
 ### 🔁 Cyclic Graph Detection
 
 #### Input Graph Data:
-![DFS Traversal Process](https://github.com/SandeepaInduwaraSamaranayake/Acyclic_graph_detector/blob/main/screenshots/3.PNG)
+![Input Graph Data](https://github.com/SandeepaInduwaraSamaranayake/Acyclic_graph_detector/blob/main/screenshots/3.PNG)
 
-#### DFS Traversal & Cycle Detection::
-![DFS Traversal Process](https://github.com/SandeepaInduwaraSamaranayake/Acyclic_graph_detector/blob/main/screenshots/4.PNG)
+#### DFS Traversal & Cycle Detection:
+![DFS Traversal & Cycle Detection](https://github.com/SandeepaInduwaraSamaranayake/Acyclic_graph_detector/blob/main/screenshots/4.PNG)
 
 ---
 
